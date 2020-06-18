@@ -1,0 +1,2 @@
+# AzureAutomation
+Training lab
